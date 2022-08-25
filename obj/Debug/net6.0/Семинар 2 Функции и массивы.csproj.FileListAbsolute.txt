@@ -1,0 +1,15 @@
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\bin\Debug\net6.0\Семинар 2 Функции и массивы.exe
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\bin\Debug\net6.0\Семинар 2 Функции и массивы.deps.json
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\bin\Debug\net6.0\Семинар 2 Функции и массивы.runtimeconfig.json
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\bin\Debug\net6.0\Семинар 2 Функции и массивы.dll
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\bin\Debug\net6.0\Семинар 2 Функции и массивы.pdb
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.csproj.AssemblyReference.cache
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.AssemblyInfoInputs.cache
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.AssemblyInfo.cs
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.csproj.CoreCompileInputs.cache
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.dll
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\refint\Семинар 2 Функции и массивы.dll
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.pdb
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\Семинар 2 Функции и массивы.genruntimeconfig.cache
+C:\Users\Евгения\Desktop\Учеба\С# семинары\Семинар 2 Функции и массивы\obj\Debug\net6.0\ref\Семинар 2 Функции и массивы.dll
