@@ -7,7 +7,7 @@ class MyNewClass
 
         Console.WriteLine("Введите  число");
         int number= Convert.ToInt32(Console.ReadLine());
-        task13(number);
+        task15(number);
     }
 
     // Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает 
@@ -32,6 +32,24 @@ class MyNewClass
         else   Console.WriteLine("Третьего числа нет");
     }
     
+
+   // Напишите программу, которая принимает на вход цифру, 
+   // обозначающую день недели, и проверяет, является ли этот день выходным.
+   
+    public static void task15(int num)
+    {
+
+        if(num==6 || num==7)
+        {
+            System.Console.WriteLine("Выходной!");
+        }
+        else if (num>=1 && num<=5) {
+           Console.WriteLine("Не выходной"); 
+        } 
+        else{
+            Console.WriteLine("Не день недели"); 
+        }
+    }
 }
 
 
