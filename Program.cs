@@ -7,7 +7,7 @@ class MyNewClass
 
         Console.WriteLine("Введите  число");
         int number= Convert.ToInt32(Console.ReadLine());
-        task15(number);
+        taskDop(number);
     }
 
     // Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает 
@@ -49,7 +49,23 @@ class MyNewClass
         else{
             Console.WriteLine("Не день недели"); 
         }
+
     }
+    
+    
+    //  Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23
+    public static void taskDop(int num)
+    {
+
+        if(num%7==0 && num%23==0)
+        {
+            System.Console.WriteLine("Кратно одновременно 7 и 23");
+        }
+        else{
+            Console.WriteLine("Не кратно одновременно 7 и 23"); 
+        }
+    }
+
 }
 
 
